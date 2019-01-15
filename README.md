@@ -1,5 +1,5 @@
 ---
-description: Diese Auflage erscheint digital. Wiederkehrend.
+description: Diese Auflage erscheint digital. Wiederkehrend. Bleibt unvollendet.
 ---
 
 # Vorwort
