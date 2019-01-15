@@ -1,9 +1,13 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [2nd page](2nd-page.md)
+* [Vorwort](README.md)
 
 ## Peppers
 
+* [Capsicum annuum](peppers/capsicum-annuum/README.md)
+  * [Um Ji Put](peppers/capsicum-annuum/um-ji-put.md)
+* [Capsicum baccatum](peppers/capsicum-baccatum.md)
+* [Capsicum chinense](peppers/capsicum-chinense.md)
 * [Capsicum frutescens](peppers/capsicum-frutescens.md)
+* [Capsicum pubescens](peppers/capsicum-pubescens.md)
 

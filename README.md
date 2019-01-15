@@ -1,22 +1,14 @@
 ---
-description: An optional page description.
+description: Diese Auflage erscheint digital. Wiederkehrend.
 ---
 
-# Initial page
+# Vorwort
 
-## Capsicum frutescens
+## Danke
 
-Just another decision.
+An dieser Stelle möchte ich mich bedanken: Bei der Natur, dafür, dass sie mir meine liebevolle Frau & Chilis geschenkt hat.
 
-### Hawaiian Hollow Point
+## TL;DR
 
-![Frozen berries.](.gitbook/assets/354.jfif)
-
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
-
-### Capsicum praeterissium
-
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-
+Dies ist ein Platz für persönliche Notizen, um mit fortschreitendem Alter zurück blicken zu können, was mich vor einer bestimmten Zeit bewegt hat. Nicht mehr. Manchmal vielleicht sogar weniger.
 
