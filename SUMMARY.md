@@ -13,6 +13,7 @@
 
 ## Brauen & Bier
 
-* [1 — z](brauen-and-bier/1.md)
-* [2 — x](brauen-and-bier/untitled.md)
+* [1 — Extrakt-Bräu](brauen-and-bier/1.md)
+* [2 — Guiness 1880](brauen-and-bier/untitled.md)
+* [3 — Pehl Börten](brauen-and-bier/3-pehl-boerten.md)
 
