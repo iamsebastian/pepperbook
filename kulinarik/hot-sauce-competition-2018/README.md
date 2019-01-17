@@ -1,2 +1,2 @@
-# Hot Sauce Competition 2018
+# SuperHot Sauce Competition 2018
 

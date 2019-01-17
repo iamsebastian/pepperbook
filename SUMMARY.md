@@ -4,8 +4,13 @@
 
 ## Kulinarik
 
-* [Hot Sauce Competition 2018](kulinarik/hot-sauce-competition-2018/README.md)
+* [SuperHot Sauce Competition 2018](kulinarik/hot-sauce-competition-2018/README.md)
   * [\[Alfiwe\] Rocoto / Apfel](kulinarik/hot-sauce-competition-2018/alfiwe-rocoto-apfel.md)
+  * [\[Bhut-head\] Bloody Goat From Hell](kulinarik/hot-sauce-competition-2018/bhut-head-bloody-goat-from-hell.md)
+  * [\[chili-angler\] Zwiebel-Sauce](kulinarik/hot-sauce-competition-2018/chili-angler-zwiebel-sauce.md)
+  * [\[klappspaten\] Salzgurke](kulinarik/hot-sauce-competition-2018/klappspaten-salzgurke.md)
+  * [\[oophag\] SOS Noel](kulinarik/hot-sauce-competition-2018/oophag-sos-noel.md)
+  * [\[torky\] Rocoto Jelly](kulinarik/hot-sauce-competition-2018/torky-rocoto-jelly.md)
 
 ## Peppers
 
