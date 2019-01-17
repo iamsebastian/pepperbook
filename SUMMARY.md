@@ -2,6 +2,11 @@
 
 * [Vorwort](README.md)
 
+## Kulinarik
+
+* [Hot Sauce Competition 2018](kulinarik/hot-sauce-competition-2018/README.md)
+  * [\[Alfiwe\] Rocoto / Apfel](kulinarik/hot-sauce-competition-2018/alfiwe-rocoto-apfel.md)
+
 ## Peppers
 
 * [Capsicum annuum](peppers/capsicum-annuum/README.md)
@@ -10,6 +15,8 @@
 * [Capsicum chinense](peppers/capsicum-chinense.md)
 * [Capsicum frutescens](peppers/capsicum-frutescens.md)
 * [Capsicum pubescens](peppers/capsicum-pubescens.md)
+* [draft\_8 — Wahrsacker \(Pale Ale\)](draft_8-wahrsacker-pale-ale.md)
+* [draft\_4 — bald Bock, bald Mai](draft_4-bald-bock-bald-mai.md)
 
 ## Brauen & Bier
 
@@ -32,6 +39,4 @@
 * [S & B](brauen-and-bier/s-and-b/README.md)
   * [S \_ B 1](brauen-and-bier/s-and-b/s-_-b-1.md)
   * [Untitled](brauen-and-bier/s-and-b/untitled.md)
-* [draft\_8 — Wahrsacker \(Pale Ale\)](draft_8-wahrsacker-pale-ale.md)
-* [draft\_4 — bald Bock, bald Mai](draft_4-bald-bock-bald-mai.md)
 
