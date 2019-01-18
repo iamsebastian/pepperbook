@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Es begann.](README.md)
+* [Vorwort](README.md)
 
 ## Kulinarik
 
