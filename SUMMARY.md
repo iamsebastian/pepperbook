@@ -4,7 +4,7 @@
 
 ## Kulinarik
 
-* [SuperHot Sauce Competition 2018](kulinarik/hot-sauce-competition-2018/README.md)
+* [Super-Hot-Sauce Competition 2018](kulinarik/hot-sauce-competition-2018/README.md)
   * [\[Alfiwe\] Rocoto / Apfel](kulinarik/hot-sauce-competition-2018/alfiwe-rocoto-apfel.md)
   * [\[Bhut-head\] Bloody Goat From Hell](kulinarik/hot-sauce-competition-2018/bhut-head-bloody-goat-from-hell.md)
   * [\[chili-angler\] Zwiebel-Sauce](kulinarik/hot-sauce-competition-2018/chili-angler-zwiebel-sauce.md)
