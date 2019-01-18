@@ -1,4 +1,4 @@
-# draft\_8 — Wahrsacker \(Pale Ale\)
+# Entwurf 8 — Wahrsacker \(Pale Ale\)
 
 {% code-tabs %}
 {% code-tabs-item title="Inhalt" %}

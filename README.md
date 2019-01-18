@@ -2,7 +2,7 @@
 description: Diese Auflage erscheint digital. Wiederkehrend. Bleibt unvollendet.
 ---
 
-# Vorwort
+# Es begann.
 
 ## Danke
 
@@ -10,5 +10,5 @@ An dieser Stelle möchte ich mich bedanken: Bei der Natur. Dafür, dass sie mir 
 
 ## TL;DR
 
-Dies ist ein Platz für persönliche Notizen, um mit fortschreitendem Alter zurück blicken zu können, was mich vor einer bestimmten Zeit bewegt hat. Nicht mehr. Manchmal vielleicht sogar weniger.D
+Dies ist ein Platz für persönliche Notizen, um mit fortschreitendem Alter zurück blicken zu können, was mich vor einer bestimmten Zeit bewegt hat. Nicht mehr. Manchmal vielleicht sogar weniger. Auf gar keinen Fall aber: Nichts.
 

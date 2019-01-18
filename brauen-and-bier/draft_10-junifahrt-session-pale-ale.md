@@ -1,4 +1,4 @@
-# draft\_10 — Junifahrt \(Session Pale Ale\)
+# Entwurf 10 — Junifahrt \(Session Pale Ale\)
 
 {% code-tabs %}
 {% code-tabs-item title="Inhalt" %}

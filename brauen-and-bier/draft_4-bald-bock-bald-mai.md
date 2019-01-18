@@ -1,4 +1,4 @@
-# draft\_4 — bald Bock, bald Mai
+# Entwurf 4 — bald Bock, bald Mai
 
 {% code-tabs %}
 {% code-tabs-item title="Inhalt" %}

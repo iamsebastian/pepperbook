@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Vorwort](README.md)
+* [Es begann.](README.md)
 
 ## Kulinarik
 
@@ -20,8 +20,6 @@
 * [Capsicum chinense](peppers/capsicum-chinense.md)
 * [Capsicum frutescens](peppers/capsicum-frutescens.md)
 * [Capsicum pubescens](peppers/capsicum-pubescens.md)
-* [draft\_8 — Wahrsacker \(Pale Ale\)](draft_8-wahrsacker-pale-ale.md)
-* [draft\_4 — bald Bock, bald Mai](draft_4-bald-bock-bald-mai.md)
 
 ## Brauen & Bier
 
@@ -39,9 +37,8 @@
 * [12 — Milk Stout](brauen-and-bier/12-milk-stout.md)
 * [13 — Mazurek \(Czech Easter Ale\)](brauen-and-bier/13-mazurek-czech-easter-ale.md)
 * [14 — Pale Ale \(Rest-Malz\)](brauen-and-bier/14-pale-ale-rest-malz.md)
-* [draft\_10 — Junifahrt \(Session Pale Ale\)](brauen-and-bier/draft_10-junifahrt-session-pale-ale.md)
-* [draft\_9 — Himmelfahrt \(Session Pale Ale\)](brauen-and-bier/draft_9-himmelfahrt-session-pale-ale.md)
-* [S & B](brauen-and-bier/s-and-b/README.md)
-  * [S \_ B 1](brauen-and-bier/s-and-b/s-_-b-1.md)
-  * [Untitled](brauen-and-bier/s-and-b/untitled.md)
+* [Entwurf 4 — bald Bock, bald Mai](brauen-and-bier/draft_4-bald-bock-bald-mai.md)
+* [Entwurf 8 — Wahrsacker \(Pale Ale\)](brauen-and-bier/draft_8-wahrsacker-pale-ale.md)
+* [Entwurf 9 — Himmelfahrt \(Session Pale Ale\)](brauen-and-bier/draft_9-himmelfahrt-session-pale-ale.md)
+* [Entwurf 10 — Junifahrt \(Session Pale Ale\)](brauen-and-bier/draft_10-junifahrt-session-pale-ale.md)
 

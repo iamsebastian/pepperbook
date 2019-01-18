@@ -1,4 +1,4 @@
-# draft\_9 — Himmelfahrt \(Session Pale Ale\)
+# Entwurf 9 — Himmelfahrt \(Session Pale Ale\)
 
 {% code-tabs %}
 {% code-tabs-item title="Inhalt" %}
