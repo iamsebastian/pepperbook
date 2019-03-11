@@ -5,10 +5,10 @@ Ein kleiner, grüner Goblin, tanzt draußen auf'm Balkon. Holla, hi. Holla, ho. 
 ![](https://farm8.staticflickr.com/7801/46553933062_9ac2ace755_b.jpg)
 
 ```text
-Optik: 
-Geruch: 
-Aromen: 
-Schärfe: 
-Konzept: 
+Optik: 8 + 7
+Geruch: 8 + 5
+Aromen: 8 + 7
+Schärfe: 9 + 8
+Konzept: 8 + 8
 ```
 

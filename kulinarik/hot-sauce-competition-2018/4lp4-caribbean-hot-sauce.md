@@ -5,10 +5,10 @@ Kokos ... Curry ... Kokos ... Curry ... Eine wohl zu recht, populäre Kombinatio
 ![Caribbean Hot Sauce](https://farm8.staticflickr.com/7915/45691628835_cb4ea2d4c3_h.jpg)
 
 ```text
-Optik: 6
-Geruch: 6
-Aromen: 3
-Schärfe: 7 
-Konzept: 5 
+Optik: 6 + 4
+Geruch: 6 + 6
+Aromen: 3 + 4
+Schärfe: 7 + 7 
+Konzept: 5 + 4
 ```
 

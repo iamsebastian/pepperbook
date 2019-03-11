@@ -5,10 +5,10 @@ Beißend. Pfirsich. Beißend. Pfirsich. Also irgendwas passt hier nicht. Pfirsic
 ![](https://farm8.staticflickr.com/7895/46553936172_db35e30e60_b.jpg)
 
 ```text
-Optik: 
-Geruch: 
-Aromen: 
-Schärfe: 
-Konzept: 
+Optik: 8 + 6
+Geruch: 10 + 8
+Aromen: 10 + 8
+Schärfe: 10 + 10
+Konzept: 9 + 9
 ```
 

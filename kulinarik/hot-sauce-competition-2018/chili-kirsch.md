@@ -5,10 +5,10 @@ Na endlich. Endlich hat es jemand geschafft, einen Likör, den man in seiner Jug
 ![](https://farm8.staticflickr.com/7898/45691632455_6f9ff2e0a6_b.jpg)
 
 ```text
-Optik: 
-Geruch: 
-Aromen: 
-Schärfe: 
-Konzept: 
+Optik: 10 + 10
+Geruch: 9 + 10
+Aromen: 9 + 8
+Schärfe: 3 + 7
+Konzept: 10 + 9
 ```
 

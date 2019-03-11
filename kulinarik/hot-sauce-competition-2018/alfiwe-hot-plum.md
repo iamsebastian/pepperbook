@@ -5,10 +5,10 @@ Die scharfe Pflaume aus der Schweiz. Dem Riechorgan am Glas schwenkend, riecht e
 ![](https://farm8.staticflickr.com/7830/45691633605_d72d385e9a_b.jpg)
 
 ```text
-Optik: 
-Geruch: 
-Aromen: 
-Schärfe: 
-Konzept: 
+Optik: 10 + 8
+Geruch: 5 + 7
+Aromen: 5 + 6
+Schärfe: 7 + 8
+Konzept: 7 + 5
 ```
 

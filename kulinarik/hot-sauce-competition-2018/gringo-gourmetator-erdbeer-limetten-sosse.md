@@ -5,10 +5,10 @@ Trinkt nicht so viel Erdbeer-Limes, kehret sonst mit Kopfschmerz Heim. Eine solc
 
 
 ```text
-Optik: 9
-Geruch: 10
-Aromen: 10
-Schärfe: 8
-Konzept: 10 
+Optik: 9 + 5
+Geruch: 10 + 10
+Aromen: 10 + 8
+Schärfe: 8 + 8
+Konzept: 10 + 6
 ```
 

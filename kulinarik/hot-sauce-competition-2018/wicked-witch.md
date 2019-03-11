@@ -5,10 +5,10 @@ Für Hund & Katz, ist auch noch Platz. So der Refrain aus einem Kinderbuch, dass
 ![](https://farm5.staticflickr.com/4821/46553933022_92d7058f72_b.jpg)
 
 ```text
-Optik: 
-Geruch: 
-Aromen: 
-Schärfe: 
-Konzept: 
+Optik: 6 + 8
+Geruch: 6 + 7
+Aromen: 6 + 5
+Schärfe: 9 + 9
+Konzept: 7 + 5
 ```
 
