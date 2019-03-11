@@ -2,3 +2,11 @@
 
 ![Kleines Glas](https://farm8.staticflickr.com/7809/46606015121_af92028dec_b.jpg)
 
+```text
+Optik: 
+Geruch: 
+Aromen: 
+Schärfe: 
+Konzept: 
+```
+
