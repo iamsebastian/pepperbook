@@ -65,3 +65,7 @@
   * [Entwurf 9 — Himmelfahrt \(Session Pale Ale\)](brauen-and-bier/geplante-sude/draft_9-himmelfahrt-session-pale-ale.md)
   * [Entwurf 10 — Junifahrt \(Session Pale Ale\)](brauen-and-bier/geplante-sude/draft_10-junifahrt-session-pale-ale.md)
 
+## Rezepte
+
+* [Pizzateig \(Weber\)](rezepte/pizzateig-weber.md)
+
