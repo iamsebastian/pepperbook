@@ -67,5 +67,11 @@
 
 ## Rezepte
 
-* [Pizzateig \(Weber\)](rezepte/pizzateig-weber.md)
+* [Backen](rezepte/backen/README.md)
+  * [Pizzateig \(Weber\)](rezepte/backen/pizzateig-weber.md)
+* [Potjie / Dutch Oven](rezepte/potjie-dutch-oven/README.md)
+  * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
+* [Soßen, Marinaden, Rubs](rezepte/sossen-marinaden-rubs/README.md)
+  * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
+  * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
 
