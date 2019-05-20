@@ -8,6 +8,6 @@ Geruch: 1
 Aromen: 2
 Schärfe: 8
 Konzept: 2
-==
+== 4.6
 ```
 

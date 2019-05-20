@@ -10,5 +10,6 @@ Geruch: 5 + 7
 Aromen: 5 + 6
 Schärfe: 7 + 8
 Konzept: 7 + 5
+= 18 + 12 + 11 + 15 + 12 ^= 6.8
 ```
 

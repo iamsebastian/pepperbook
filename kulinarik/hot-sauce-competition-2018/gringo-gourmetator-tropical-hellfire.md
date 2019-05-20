@@ -8,6 +8,6 @@ Geruch: 10 + 9
 Aromen: 10 + 9
 Schärfe: 10 + 9
 Konzept: 10 + 9
-==
+== 9.5
 ```
 
