@@ -74,4 +74,6 @@
 * [Soßen, Marinaden, Rubs](rezepte/sossen-marinaden-rubs/README.md)
   * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
   * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
+* [Wok](rezepte/wok/README.md)
+  * [Heitere Nudeln / Pad Kee Mao / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
 
