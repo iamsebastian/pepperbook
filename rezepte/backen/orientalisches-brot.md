@@ -21,7 +21,7 @@ Den Teig über 10 Min. mit den Händen kneten, anschließend einige Male auf die
 
 Teigruhe: 20 Min.
 
-Den Teig in n Teile teilen \(← in dem Fall: 4\), flach ausrollen und anschließend mit einer Gabel einstechen, um die Blasenbildung zu reduzieren.
+Den Teig in `n` Teile teilen \(← in dem Fall: `4`\), flach ausrollen und anschließend mit einer Gabel einstechen, um die Blasenbildung zu reduzieren.
 
 Backen bei 225°C — bis es fertig erscheint.
 
