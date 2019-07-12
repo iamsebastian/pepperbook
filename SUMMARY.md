@@ -68,6 +68,7 @@
 ## Rezepte
 
 * [Backen](rezepte/backen/README.md)
+  * [Orientalisches Brot](rezepte/backen/orientalisches-brot.md)
   * [Pizzateig \(Weber\)](rezepte/backen/pizzateig-weber.md)
 * [Potjie / Dutch Oven](rezepte/potjie-dutch-oven/README.md)
   * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
