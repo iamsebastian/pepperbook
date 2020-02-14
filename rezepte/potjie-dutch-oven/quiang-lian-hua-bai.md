@@ -1,5 +1,6 @@
 # Quiang Lian Hua Bai
 
+{% hint style="success" %}
 * 500g Weißkohl
 * 1 EL Sojasoße
 * Chili nach Bedarf
@@ -8,6 +9,7 @@
 * 1 TL Reisessig
 * 1/2 TL Sesamöl
 * 1 EL Zucker
+{% endhint %}
 
 1. Sojasoße, Salz + Zucker vermischen
 2. Öl heiß werden lassen
