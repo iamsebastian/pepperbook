@@ -16,3 +16,5 @@ Nach dem Entspannen, den Teig in vier Teile teilen, mit Mehl besprenkeln und ern
 Ausgerollt, sollte der Teig etwa 5mm Dicke haben, bevor man die Nudeln schneidet.
 {% endhint %}
 
+> [https://steamykitchen.com/43189-homemade-udon-noodle-recipe-morimoto.html](https://steamykitchen.com/43189-homemade-udon-noodle-recipe-morimoto.html)
+

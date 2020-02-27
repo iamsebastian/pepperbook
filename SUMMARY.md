@@ -33,16 +33,17 @@
 
 ## Rezepte
 
-* [Backen](rezepte/backen/README.md)
-  * [Orientalisches Brot](rezepte/backen/orientalisches-brot.md)
-  * [Pizzateig \(Weber\)](rezepte/backen/pizzateig-weber.md)
-* [Cocotte / DutchOven / Potjie](rezepte/potjie-dutch-oven/README.md)
+* [Gusseisen](rezepte/potjie-dutch-oven/README.md)
   * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
 * [Soßen, Marinaden, Rubs](rezepte/sossen-marinaden-rubs/README.md)
   * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
   * [Fish-Sauce, pflanzl.](rezepte/sossen-marinaden-rubs/fish-sauce-pflanzl..md)
   * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
+* [Suppen](rezepte/suppen/README.md)
+  * [Udon-Dashi](rezepte/suppen/udon-dashi.md)
 * [Teig](rezepte/teig/README.md)
+  * [Orientalisches Brot](rezepte/teig/orientalisches-brot.md)
+  * [Pizzateig \(Weber\)](rezepte/teig/pizzateig-weber.md)
   * [Udon](rezepte/teig/udon.md)
 * [Wok](rezepte/wok/README.md)
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
