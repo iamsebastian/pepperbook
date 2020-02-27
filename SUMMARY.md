@@ -42,6 +42,8 @@
   * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
   * [Fish-Sauce, pflanzl.](rezepte/sossen-marinaden-rubs/fish-sauce-pflanzl..md)
   * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
+* [Teig](rezepte/teig/README.md)
+  * [Udon](rezepte/teig/udon.md)
 * [Wok](rezepte/wok/README.md)
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
   * [Heitere Nudeln / Pad Kee Mao / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
