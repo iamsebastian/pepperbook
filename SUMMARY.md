@@ -9,6 +9,17 @@
 
 ## Fermente
 
+* [Aspergillus oryzae](fermente/aspergillus-oryzae/README.md)
+  * [Shoyu](fermente/aspergillus-oryzae/shoyu/README.md)
+    * [Gelbe Erbsen Shoyu](fermente/aspergillus-oryzae/shoyu/gelbe-erbsen-shoyu.md)
+    * [Kaffee Shoyu](fermente/aspergillus-oryzae/shoyu/kaffee-shoyu.md)
+  * [Koji](fermente/aspergillus-oryzae/koji/README.md)
+    * [Perlgraupen-Koji](fermente/aspergillus-oryzae/koji/perlgraupen-koji.md)
+  * [Miso](fermente/aspergillus-oryzae/miso/README.md)
+    * [Gelbe Erbsen-Miso](fermente/aspergillus-oryzae/miso/gelbe-erbsen-miso.md)
+    * [Roggenbrot Miso](fermente/aspergillus-oryzae/miso/roggenbrot-miso.md)
+    * [\(Weizen-\)Sauerteig Miso](fermente/aspergillus-oryzae/miso/weizen-sauerteig-miso.md)
+  * [Shio Koji](fermente/aspergillus-oryzae/shio-koji.md)
 * [Biere](fermente/biere/README.md)
   * [gebraute Biere](fermente/biere/gebraute-biere/README.md)
     * [1 — Extrakt-Bräu](fermente/biere/gebraute-biere/1.md)
@@ -42,8 +53,8 @@
 * [Suppen](rezepte/suppen/README.md)
   * [Udon-Dashi](rezepte/suppen/udon-dashi.md)
 * [Teig](rezepte/teig/README.md)
-  * [Orientalisches Brot](rezepte/backen/orientalisches-brot.md)
-  * [Pizzateig \(Weber\)](rezepte/backen/pizzateig-weber.md)
+  * [Orientalisches Brot](rezepte/teig/orientalisches-brot.md)
+  * [Pizzateig \(Weber\)](rezepte/teig/pizzateig-weber.md)
   * [Udon](rezepte/teig/udon.md)
 * [Wok](rezepte/wok/README.md)
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
