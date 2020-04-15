@@ -5,6 +5,7 @@
 ## Aromen
 
 * [Flüssiges](aromen/fluessiges/README.md)
+  * [Shao Xing](aromen/fluessiges/shao-xing.md)
   * [Sherry Pepper](aromen/fluessiges/sherry-pepper.md)
 
 ## Fermente
@@ -61,7 +62,8 @@
   * [Udon](rezepte/teig/udon.md)
 * [Wok](rezepte/wok/README.md)
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
-  * [Heitere Nudeln / Pad Kee Mao / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
+  * [Nackter Tofu](rezepte/wok/nackter-tofu.md)
+  * [Pad Kee Mao / Heitere Nudeln / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
 
 ## Peppers
 
