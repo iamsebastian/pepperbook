@@ -5,18 +5,18 @@ description: >-
 
 # Baccatum Sambal
 
-{% hint style="success" %}
-Im Mixer:
+| Zutat zum Mixen | Menge |
+| :--- | :--- |
+| C.baccatum, frisch | 1 kg |
+| Apfelessig | 100ml |
+| Wasser | 100ml |
+| Pflanzenöl | 50ml |
+| Knoblauch | 1 Knolle |
 
-* 1kg C.baccatum
-* 100ml Apfelessig
-* 100ml Wasser
-* 50 ml Rapsöl
-* 1 Knoblauchknolle
+| Zutat zum Abschmecken | Menge |
+| :--- | :--- |
+| Salz | 1 EL |
+| Zucker | 1 EL |
 
-Zum Abschmecken:
-
-* 1EL Salz
-* 1EL brauner Zucker
-{% endhint %}
+Die gemixten Zutaten zur gewünschten Konsistenz reduzieren und abschmecken.
 
