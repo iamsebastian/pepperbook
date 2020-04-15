@@ -14,7 +14,7 @@ description: 'https://tofoo.co.uk/recipes/naked-tofoo-stir-fry#Ingredients'
 
 Den Tofu, blockweise geschnitten \(2cm\), einige Zeit in der Marinade ziehen lassen.
 
-### Gemüse
+## Gemüse
 
 | Zutat | Menge | Schnitt |
 | :--- | :--- | :--- |
@@ -25,7 +25,7 @@ Den Tofu, blockweise geschnitten \(2cm\), einige Zeit in der Marinade ziehen las
 | Cayenne | 1 | normal |
 | Tomate | 1 große | grob |
 
-### Wok-Soße
+## Wok-Soße
 
 | Zutat | Menge |
 | :--- | :--- |
