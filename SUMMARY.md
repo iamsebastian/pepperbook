@@ -61,6 +61,7 @@
   * [Pizzateig \(Weber\)](rezepte/teig/pizzateig-weber.md)
   * [Udon](rezepte/teig/udon.md)
 * [Wok](rezepte/wok/README.md)
+  * [Chop Suey](rezepte/wok/chop-suey.md)
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
   * [Nackter Tofu](rezepte/wok/nackter-tofu.md)
   * [Pad Kee Mao / Heitere Nudeln / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
