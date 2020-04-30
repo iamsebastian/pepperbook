@@ -48,6 +48,9 @@
 
 ## Rezepte
 
+* [Aufstriche](rezepte/aufstriche/README.md)
+  * [pflanzl. Frischkäse](rezepte/aufstriche/pflanzl.-frischkaese.md)
+  * [pflanzl. Frischkäse 2](rezepte/aufstriche/pflanzl.-frischkaese-2.md)
 * [Gusseisen](rezepte/potjie-dutch-oven/README.md)
   * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
 * [Soßen, Marinaden, Rubs](rezepte/sossen-marinaden-rubs/README.md)
