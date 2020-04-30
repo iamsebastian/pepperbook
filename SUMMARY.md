@@ -45,6 +45,8 @@
     * [Entwurf 8 — Wahrsacker \(Pale Ale\)](fermente/biere/geplante-sude/draft_8-wahrsacker-pale-ale.md)
     * [Entwurf 9 — Himmelfahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_9-himmelfahrt-session-pale-ale.md)
     * [Entwurf 10 — Junifahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_10-junifahrt-session-pale-ale.md)
+* [Käse](fermente/kaese/README.md)
+  * [pflanzl. Feta](fermente/kaese/pflanzl.-feta.md)
 
 ## Rezepte
 
