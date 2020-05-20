@@ -22,7 +22,7 @@ Ausgerollt, sollte der Teig etwa 5mm Dicke haben, bevor man die Nudeln schneidet
 
 ![](../../.gitbook/assets/a808237f-0123-42f0-a982-8c2502ba682f.jpeg)
 
-![](../../.gitbook/assets/06ced4a6-2a68-409f-8bec-ae3a38cf8a5c.jpeg)
+![](../../.gitbook/assets/06ced4a6-2a68-409f-8bec-ae3a38cf8a5c%20%281%29.jpeg)
 
 ![](../../.gitbook/assets/10b3b553-4908-4aba-bc55-378453f4957e.jpeg)
 
