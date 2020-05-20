@@ -15,3 +15,7 @@
 | Lorbeer | 3 Blatt |  |
 | opt.: Piment, Paprika |  |  |
 
+![](../../.gitbook/assets/img_20180922_190257-01.jpeg)
+
+![](../../.gitbook/assets/f772b4fc-b24a-4635-97f5-c3336f487285.jpeg)
+
