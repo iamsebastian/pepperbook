@@ -6,3 +6,5 @@
 
 Garnitur: Frühlingszwiebeln
 
+![](../../.gitbook/assets/c87ef0bd-5789-4e50-8dab-8cb8206a2854.jpeg)
+

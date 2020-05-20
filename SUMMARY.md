@@ -45,7 +45,6 @@
     * [Entwurf 8 — Wahrsacker \(Pale Ale\)](fermente/biere/geplante-sude/draft_8-wahrsacker-pale-ale.md)
     * [Entwurf 9 — Himmelfahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_9-himmelfahrt-session-pale-ale.md)
     * [Entwurf 10 — Junifahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_10-junifahrt-session-pale-ale.md)
-* [Käse](fermente/kaese.md)
 
 ## Rezepte
 
@@ -54,6 +53,7 @@
   * [pflanzl. Frischkäse](rezepte/aufstriche/pflanzl.-frischkaese.md)
   * [pflanzl. Frischkäse 2](rezepte/aufstriche/pflanzl.-frischkaese-2.md)
 * [Gusseisen](rezepte/potjie-dutch-oven/README.md)
+  * [Bigos](rezepte/potjie-dutch-oven/bigos.md)
   * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
 * [Soßen, Marinaden, Rubs](rezepte/sossen-marinaden-rubs/README.md)
   * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
