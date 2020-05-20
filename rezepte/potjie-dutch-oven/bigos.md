@@ -2,7 +2,7 @@
 
 | Zutat | Menge | Schnitt |
 | :--- | :--- | :--- |
-| Weißkohl | 3 Pfund |  |
+| Weißkohl | 3 Pfund | fein gehobelt |
 | Sauerkraut | 3 Pfund |  |
 | Wurst \(pflanzl. Merguez\) | 3/2 Pfund | normal |
 | Tomaten, geschält | 2 kl. Dosen |  |
