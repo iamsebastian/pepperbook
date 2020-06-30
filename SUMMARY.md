@@ -46,7 +46,11 @@
     * [Entwurf 9 — Himmelfahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_9-himmelfahrt-session-pale-ale.md)
     * [Entwurf 10 — Junifahrt \(Session Pale Ale\)](fermente/biere/geplante-sude/draft_10-junifahrt-session-pale-ale.md)
 * [Lactobacillales](fermente/lactobacillales/README.md)
-  * [Kimchi-Grund-Mix](fermente/lactobacillales/kimchi-grund-mix.md)
+  * [Kimchi-Grund-Mix](fermente/lactobacillales/kimchi-grund-mix/README.md)
+    * [Für Gurken](fermente/lactobacillales/kimchi-grund-mix/fuer-gurken.md)
+  * [Kimchis](fermente/lactobacillales/kimchis/README.md)
+    * [Oi / Gurken](fermente/lactobacillales/kimchis/oi-gurken/README.md)
+      * [\#10](fermente/lactobacillales/kimchis/oi-gurken/10.md)
 
 ## Rezepte
 
