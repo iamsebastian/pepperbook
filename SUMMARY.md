@@ -66,6 +66,8 @@
   * [Fish-Sauce, pflanzl.](rezepte/sossen-marinaden-rubs/fish-sauce-pflanzl..md)
   * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
 * [Suppen](rezepte/suppen/README.md)
+  * [Buseot Yuksu](rezepte/suppen/buseot-yuksu.md)
+  * [Doenjang Jjigae](rezepte/suppen/doenjang-jjigae.md)
   * [Udon-Dashi](rezepte/suppen/udon-dashi.md)
 * [Teig](rezepte/teig/README.md)
   * [Orientalisches Brot](rezepte/teig/orientalisches-brot.md)
