@@ -10,6 +10,7 @@ description: Pilzbrühe. Eine pflanzliche Alternative zu Sardellenbrühe (Myeolc
 | Rettich | 30g |
 | Shiitake-Pilze, eingeweicht | 2 |
 | Dashima | ~ 5cm x 5cm |
+| Wasser | 1l |
 
 1 Stunde simmern.
 
