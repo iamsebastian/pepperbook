@@ -81,6 +81,8 @@
   * [Green Thai Curry](rezepte/wok/green-thai-curry.md)
   * [Nackter Tofu](rezepte/wok/nackter-tofu.md)
   * [Pad Kee Mao / Heitere Nudeln / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
+* [Würzmischungen](rezepte/wuerzmischungen/README.md)
+  * [Gyros](rezepte/wuerzmischungen/gyros.md)
 
 ## Peppers
 
