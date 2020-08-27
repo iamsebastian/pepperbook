@@ -49,6 +49,7 @@
   * [Kimchi-Grund-Mix](fermente/lactobacillales/kimchi-grund-mix/README.md)
     * [Für Gurken](fermente/lactobacillales/kimchi-grund-mix/fuer-gurken.md)
   * [Kimchis](fermente/lactobacillales/kimchis/README.md)
+    * [Dongchimi / Wasserkimchi](fermente/lactobacillales/kimchis/dongchimi-wasserkimchi.md)
     * [Oi / Gurken](fermente/lactobacillales/kimchis/oi-gurken/README.md)
       * [\#10](fermente/lactobacillales/kimchis/oi-gurken/10.md)
 
