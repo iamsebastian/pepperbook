@@ -62,6 +62,8 @@
 * [Gusseisen](rezepte/potjie-dutch-oven/README.md)
   * [Bigos](rezepte/potjie-dutch-oven/bigos.md)
   * [Quiang Lian Hua Bai](rezepte/potjie-dutch-oven/quiang-lian-hua-bai.md)
+* [Ofen & Gebackenes](rezepte/ofen-and-gebackenes/README.md)
+  * [Blätterteigtarte mit Kartoffeln](rezepte/ofen-and-gebackenes/blaetterteigtarte-mit-kartoffeln.md)
 * [Salate & Gemüse](rezepte/salate-and-gemuese/README.md)
   * [vietn. Kohl-Salat](rezepte/salate-and-gemuese/vietn.-kohl-salat.md)
   * [vietn. saures Möhren-Rettich-Gemüse](rezepte/salate-and-gemuese/vietn.-saures-moehren-rettich-gemuese.md)
