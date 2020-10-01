@@ -86,6 +86,7 @@
   * [Pad Kee Mao / Heitere Nudeln / Drunken Noodles](rezepte/wok/heitere-nudeln-pad-kee-mao-drunken-noodles.md)
 * [Würzmischungen](rezepte/wuerzmischungen/README.md)
   * [Gyros](rezepte/wuerzmischungen/gyros.md)
+  * [Taco-Mix](rezepte/wuerzmischungen/taco-mix.md)
 
 ## Peppers
 
