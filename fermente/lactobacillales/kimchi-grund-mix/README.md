@@ -19,3 +19,5 @@ description: 'Die Grundlage für die meisten, eigenen Kimchi-Fermente.'
 
 Stand Juni 2020: Grund-Mix hielt sich, frisch, ohne Probleme 9 Wochen im Kühlschrank, ohne vorher bei Raumtemperatur angesäuert zu sein.
 
+Stand September 2020: Grund-Mix ist nach wie vor frisch, allerdings waren zwei, drei kleine weiße Punkte zu sehen, die allerdings nicht nach Schimmel aussahen. Ein frischer Chinakohl-Kimchi mit dem Mix, ist allerdings nach wenigen Tagen im Büro verdorben \(stechende Kahmhefe\), weil die säuernde Aktivität nicht stark genug war. Womöglich lag's aber am nicht ausreichend umschließend eingesalzenen Chinakohl.
+
