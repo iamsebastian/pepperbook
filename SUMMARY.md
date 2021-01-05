@@ -71,6 +71,7 @@
   * [Baccatum Sambal](rezepte/sossen-marinaden-rubs/baccatum-sambal.md)
   * [Fish-Sauce, pflanzl.](rezepte/sossen-marinaden-rubs/fish-sauce-pflanzl..md)
   * [Marinade Szechuan-Style](rezepte/sossen-marinaden-rubs/marinade-szechuan-style.md)
+  * [Soja Sambal](rezepte/sossen-marinaden-rubs/soja-sambal.md)
 * [Suppen](rezepte/suppen/README.md)
   * [Buseot Yuksu](rezepte/suppen/buseot-yuksu.md)
   * [Doenjang Jjigae](rezepte/suppen/doenjang-jjigae.md)
